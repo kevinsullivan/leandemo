@@ -1,6 +1,11 @@
 import «Cs2120f24»
 
 /-
+Hi! Here's a quick demo of Lean4 for you. Start by
+opening
+-/
+
+/-
 The first thing to do: open Cs2120f24/Demo/Demo.lean,
 read it, and work through the easy exercises. It will
 help to have been there for Kevin's introduction to all
