@@ -10,17 +10,17 @@ To experience The Joy of Lean yourself
 - Run VSCode open the demo top level folder in VSCode
 - If asked, indicate that you "trust the authors"
 - Install the "lean4" extension and select these options
-    - reopen setup guide
-    - books and documentation
-    - install dependencies
-    - install version manager
+  - reopen setup guide
+  - books and documentation
+  - install dependencies
+  - install version manager
 - Click on Main.lean to open it
 - Agree to let VSCode install Lean4 (wait until it's done)
 - You might have to "restart file" and "restart server"
-    - CMD-or-CTRL + SHIFT + P, then search for Lean4
-    - You will see all VSCode commands for Lean4
-    - In this case, select Lean4 : Server : Restart File
-    - Same goes for Restart Server  
+  - CMD-or-CTRL + SHIFT + P, then search for Lean4
+  - You will see all VSCode commands for Lean4
+  - In this case, select Lean4 : Server : Restart File
+  - Same goes for Restart Server  
 - Hover over the #eval in Main.lean for a greeting
 - To open the Infoview, press CMD/CTRL-SHIFT-ENTER/return 
 - Open Cs2120f24/Demo/Demo.lean and have a good time
