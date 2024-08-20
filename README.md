@@ -9,5 +9,4 @@ To experience The Joy of Lean yourself
 - clone your fork to your own machine
 - open the top level directory in VSCode
 - click on Main.lean; VSCode will install Lean
-- open Cs2120f24/Demo/Demo.lean and have a good time
-
+- open Cs2120f24/Demo/Demo.lean and have a good time    git push --set-upstream origin main
